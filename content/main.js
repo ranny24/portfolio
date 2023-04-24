@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Rania, and I create",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
@@ -16,13 +16,13 @@ export const attributes = {
     typed: [
       { text: 'fast websites.' },
       { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
+      { text: 'awesome experiences.' },
     ],
   },
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'I have experience with websites, including social media pages, blogs, and e-commerce sites. But my passion is in creating elegant, minimalist designs that can be used as platforms for engaging content or as stand-alone pieces of art in their own right.\n',
   },
   features: [
     {
